@@ -1,5 +1,5 @@
-a = list(input("Enter Your Name : " ).strip().lower())
-b = list(input("Enter His / Her  Name : ").strip().lower())
+a = list(input("Enter Your Name : " ).lower())
+b = list(input("Enter His / Her  Name : ").lower())
 l=[i for i  in  (a and b)]
 l1=[i for i  in  (b and a)]
 for i in l:
