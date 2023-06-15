@@ -6,7 +6,7 @@ PyFlames is a fun and nostalgic relationship game developed using Python. Based 
 
 1. Click the above image 👇
  
-![PyFlames](https://your-repository-link/image.png) 
+[![PyFlames](https://github.com/SuryaR08/FLames/blob/main/pyflame.jpg)] (https://replit.com/@suryaraja8903/PyFlames-The-Digital-Flames-Game?v=1)
 
 2. Enter the names of the two individuals when prompted. Make sure to provide valid names without any special characters or numbers.
 
